@@ -2,7 +2,6 @@
 - 👀 I’m interested in engineering, data insights, Gen AI, predictive analytics and NLP.
 - 🌱 I’m currently learning advanced programming and deep learning.
 - 📫 Get in touch: agilliard1630@gmail.com
-- ⚡ Pronouns: He/Him
 - 😄 Funny fact: I can't understand why pistachio flavor is so overrated!!!
 
 <!---
