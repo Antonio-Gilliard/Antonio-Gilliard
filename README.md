@@ -2,10 +2,10 @@
 
 ## I'm a mechanical engineering student and also a data science and artificial intelligence enthusiast. 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Gilliard&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gilliard&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Gilliard&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gilliard&layout=compact&theme=vision-friendly-dark)
 
-# Portfolio 
+# Portfolio 🗃️
 
 - [Portfolio Completo](https://github.com/Antonio-Gilliard/Portfolio)
 
@@ -37,7 +37,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-# Most interested in 📖
+# Most interested in 📚
 
 - Machine Learning
 - Gen. AI
