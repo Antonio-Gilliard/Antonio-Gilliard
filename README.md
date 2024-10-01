@@ -2,7 +2,7 @@
 
 ## I'm a mechanical engineering student and also a data science and artificial intelligence enthusiast. 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Gilliard&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-gilliard&show_icons=true&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gilliard&layout=compact&theme=vision-friendly-dark)
 
 # Portfolio 🗃️
