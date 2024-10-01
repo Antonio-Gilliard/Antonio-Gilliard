@@ -2,8 +2,12 @@
 
 ## I'm a mechanical engineering student and also a data science and artificial intelligence enthusiast. 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-gilliard&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-gilliard&layout=compact&theme=vision-friendly-dark)
+<div style="display: flex; justify-content: space-between;">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=antonio-gilliard&show_icons=true&theme=vision-friendly-dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-gilliard&layout=compact&theme=vision-friendly-dark"/>
+</div>
+
+
 
 # Portfolio 🗃️
 
